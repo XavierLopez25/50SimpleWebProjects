@@ -1,3 +1,5 @@
+// API USED: https://rapidapi.com/SAdrian/api/moviesdatabase
+
 document.getElementById("form").addEventListener("submit", function (e) {
   e.preventDefault();
   const searchValue = document.getElementById("search").value;
